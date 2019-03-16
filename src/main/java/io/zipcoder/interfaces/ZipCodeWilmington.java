@@ -34,4 +34,11 @@ public class ZipCodeWilmington {
     public static ZipCodeWilmington getINSTANCE() {
         return INSTANCE;
     }
+
+
+//    @Override
+//    public Person[] getArray() {
+//        return new Person[0];
+//  }
+
 }
